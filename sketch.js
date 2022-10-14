@@ -89,7 +89,7 @@ function draw() {
   }
 
 
-  text("X:"+mouseX+"\nY:"+mouseY,20,20);
+  //text("X:"+mouseX+"\nY:"+mouseY,20,20);
 
   /*
    circle(162,244,150); //area da teroura
