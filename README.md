@@ -43,4 +43,5 @@ https://docs.google.com/document/d/1Ud5ZnOA8lqQoMoJ1kmcONz3EWQcA5UtZPhjCaszex_o/
 
 Agora vamos aprender como usar o mouse para clicar e arrastar a imagem usando a biblioteca P5.js, siga os passos do tutorial:
 
+https://docs.google.com/document/d/1uXrEt6sv2hbvEhaJanjdFb9qcatzOAbIasLtQk4oHOQ/edit?usp=sharing
 
