@@ -1,6 +1,6 @@
 # Jogo_pedra_papel_ou_tesoura
 
-*Tutorial*
+*Tutoriais Diversos*
 
 **Login ou Cadastro**
 
