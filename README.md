@@ -1,6 +1,6 @@
 # Jogo_pedra_papel_ou_tesoura
 
-*Tutoriais Diversos*
+# Tutoriais Diversos no P5.js Editor
 
 **Login ou Cadastro**
 
