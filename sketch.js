@@ -71,17 +71,17 @@ function draw() {
       background(fundo[8]);
       break;
     
-    case 10: //codigo da tela 10
+    case 10: //jogador 1 venceu
       background(vence[0]);
       printPontos();
       break;
 
-    case 11:
+    case 11://jogador 2 venceu
       background(vence[1]);
       printPontos();
       break;
 
-    case 12:
+    case 12://empate
       background(vence[2]);
       printPontos();
       break;
