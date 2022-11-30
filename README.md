@@ -25,7 +25,7 @@ Agora vamos aprender como usar as imagens do jogo e verificar as jogadas
 //Inserir link do tutorial 4 jogo PPT
 
 Pronto. 
-Finalizamos o jogo, como tutorial extra, voce pode criar o controle com o teclado, para que seu jogo funcione com o mouse e teclado, para aprender assista o video no link abaico: 
+Finalizamos o jogo, como tutorial extra, voce pode criar o controle com o teclado, para que seu jogo funcione com o mouse e teclado, para aprender assista o video no link abaixo: 
 
 //Inserir link tutorial controle do teclado
 
