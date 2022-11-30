@@ -1,51 +1,33 @@
-# Tutoriais Diversos no P5.js Editor
+# Tutorial
 
-**Login ou Cadastro**
+Para começar a criar nosso jogo do pedra papel ou tesoura, voce precisa saber usar o Editor online do P5.js, para poder usar a biblioteca P5.js que vai facilitar nosso desenvolvimento web.
 
-Para começar, vamos nos cadastrar no Editor do p5.js para poder criar nosso projeto e salvar nossas alterações, para isso entre no link: 
+Para aprender um pouco sobre o Editor P5.js, entre no link abaixo, ele vai te levar para a playlist no youtube com todos os tutoriais ensinando como criar o primeiro esboço, como usar imagem, criar formas geometricas texto e tudo que vamos precisar saber para fazer esse jogo.
 
-https://docs.google.com/document/d/1F_oGrliN9G0PUjXN0MKXjV-Pz-OhJuzKYrTtjnRrmWI/edit?usp=sharing
+//inserir link da playlist tutoriais atualizado sdo p5.js
 
-Siga os passos do Tutorial.
+Agora vamos ao que importa, que é como fazer o jogo pedra papel ou tesoura?
 
+Clique no link abaixo, ele vai te levar o tutorial detalhado de como fazer as telas que vamos usar no nosso jogo, vamos usar a ferramenta canva para criar nossas telas em forma de imagens.
 
-**Primeiro Esboço**
+//inserir link do tutorial 1 jogo PPT
 
-Agora vamos aprender como criar nosso primeiro esboço no editor p5.js seguindo os passos do tutorial disponivel no link: 
+Agora que voce ja criou as telas, vamos para o Editor p5.js aprender como carregar essas imagens e usa-las no nosso esboço.
 
-https://docs.google.com/document/d/1tk0YGjXJYVI2vt97mMwR8UN_R27LFmg3YG-LPDuiv9E/edit?usp=sharing
+//inserir link do tutorial 2 jogo PPT
 
+Ja estamos usando as imagens nas nossas telas, agora vamos aprender como usar o mouse como controle do nosso jogo.
 
-**Formas Geométricas**
+//inserir ln=ink tutorial 3 jogo PPT
 
-Agora vamos aprender como desenhar formas geometricas e como fazer essas formas se movimentarem pela area de sesenho, siga os passos do tutorial:
+Agora vamos aprender como usar as imagens do jogo e verificar as jogadas
 
-https://docs.google.com/document/d/1IBp62poyZpv7-73ewm4j2EzmpeF6IAnZuQxDUpzhwOw/edit?usp=sharing
+//Inserir link do tutorial 4 jogo PPT
 
+Pronto. 
+Finalizamos o jogo, como tutorial extra, voce pode criar o controle com o teclado, para que seu jogo funcione com o mouse e teclado, para aprender assista o video no link abaico: 
 
-**Texto**
-
-Agora vamos aprender como desenhar criar e formatar textos, siga os passos do tutorial:
-
-https://docs.google.com/document/d/1_pwij8WrzQYcKUib07zAJHSqX_2GC7jGC1CXvdLHXQo/edit?usp=sharing
-
-
-**Imagem**
-
-Agora vamos aprender como usar imagem com a biblioteca P5.js,  siga os passos do tutorial:
-
-https://docs.google.com/document/d/1Ud5ZnOA8lqQoMoJ1kmcONz3EWQcA5UtZPhjCaszex_o/edit?usp=sharing
+//Inserir link tutorial controle do teclado
 
 
-**Mouse**
-
-Agora vamos aprender como usar o mouse para clicar e arrastar a imagem usando a biblioteca P5.js, siga os passos do tutorial:
-
-Tutorial - Arrastando imagem
-
-https://docs.google.com/document/d/1uXrEt6sv2hbvEhaJanjdFb9qcatzOAbIasLtQk4oHOQ/edit?usp=sharing
-
-Tutorial - Criando botão
-
-https://docs.google.com/document/d/1BhLx96s3VH36cGxIahINqky9v7xoU1TMKc0zjwtmT20/edit?usp=sharing
 
