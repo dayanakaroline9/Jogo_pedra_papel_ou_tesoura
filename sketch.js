@@ -71,19 +71,25 @@ function draw() {
       background(fundo[8]);
       break;
     
-    case 10: //jogador 1 venceu
+    case 10: //codigo da tela 10
       background(vence[0]);
       printPontos();
       break;
 
-    case 11://jogador 2 venceu
+    case 11:
       background(vence[1]);
       printPontos();
       break;
 
-    case 12://empate
+    case 12:
       background(vence[2]);
       printPontos();
+      break;
+      
+    case 13:
+      background("#EE82EE");
+      textSize(30);
+      text("Informação",200,150)
       break;
 
   }

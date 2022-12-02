@@ -7,8 +7,8 @@ function jogadas(){
        (j1=="papel" && j2=="pedra")){
     
       console.log("Jogador 1 venceu!")
-      console.log("Placar:"+placar[0]+" | "+placar[1])
       placar[0]++; //pontuação para o jogador 1
+      console.log("Placar:"+placar[0]+" | "+placar[1])
       tela = 10; //abre tela 10
       
     }
@@ -21,8 +21,8 @@ function jogadas(){
        (j1=="pedra" && j2=="papel")){
       
       console.log("Jogador 2 venceu!")
-      console.log("Placar:"+placar[0]+" | "+placar[1])
       placar[1]++ ; // pontuação para o jogador 2
+      console.log("Placar:"+placar[0]+" | "+placar[1])
       tela = 11; //abre tela 11
     
     }
@@ -31,9 +31,9 @@ function jogadas(){
     else{
      
       console.log("Empate!")
-      console.log("Placar:"+placar[0]+" | "+placar[1])
       placar[0]++;
       placar[1]++;
+      console.log("Placar:"+placar[0]+" | "+placar[1])
       tela = 12; //abre tela 12
     }
     

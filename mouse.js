@@ -12,6 +12,10 @@ function mouseClicked() {
       tela=2; //abre tela 2
     }
     
+    if(dist(mouseX,mouseY,438,66)<=40){
+      tela=13;
+    }
+    
   }
   
   //controle da tela 2
