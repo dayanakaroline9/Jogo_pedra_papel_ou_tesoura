@@ -1,5 +1,5 @@
 var fundo=[]; //vetor para imagens de fundo
-var img;
+
 var tela =1; //tela inicia em 1
 
 var vence = []; //vetor para as imagens de venceu
@@ -14,7 +14,7 @@ var placar = [0,0];
 function preload(){
   
   //carregando as imagens de fundo
-  for(i =0; i<9; i++){
+  for(i =0; i<10; i++){
     fundo[i]=loadImage("Imagens/fundo"+(i+1)+".png");
   }
   
@@ -34,20 +34,21 @@ function setup() {
 
 function draw() {
   
+  //verificando qual o estado da variavel tela
   switch (tela) {
-    case 1:
+    case 1: //tela de menu
       background(fundo[0]);
       break;
       
-    case 2:
+    case 2://tela de escolha para o jogador 1
       background(fundo[1]);
       break;
       
-    case 3:
+    case 3://tela de escolha para o jogador 2
       background(fundo[2]);
       break;
       
-    case 4:
+    case 4: 
       background(fundo[3]);
       break;
       
@@ -87,9 +88,7 @@ function draw() {
       break;
       
     case 13:
-      background("#EE82EE");
-      textSize(30);
-      text("Informação",200,150)
+      background(fundo[9]);
       break;
 
   }

@@ -125,6 +125,12 @@ function mouseClicked() {
       
     }
     
+  }else if(tela==13){
+    if(mouseX>=18 && mouseX<=136 &&
+      mouseY>=404 && mouseY<=473){
+      tela=1;
+    }
+    
   }
   
   
